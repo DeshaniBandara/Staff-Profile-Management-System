@@ -4,9 +4,9 @@ A secure, centralized, web-based application designed to streamline the manageme
 
 Developed as a group project for the Advanced Web Technology (TICT3132) module.  
 
-# Key FeaturesSecure
+# Key Features
 
-Authentication: An administrator login portal featuring credential validation to prevent unauthorized system access.  <br>
+Secure Authentication: An administrator login portal featuring credential validation to prevent unauthorized system access.  <br>
 Centralized Administrative Dashboard: A comprehensive summary view tracking the total number of staff alongside quick-access links to critical modules.  <br>
 Full CRUD Operations: Seamless capabilities to Add (Create), View (Read), Edit (Update), and Remove (Delete) comprehensive staff profiles.  <br>
 Comprehensive Staff Profiles: Captures detailed records including Employee Name, Designation, Contact Information, Email, and Date of Joining. <br>
@@ -22,9 +22,8 @@ Development Environment: XAMPP local server. <br>
 Code Editor: Visual Studio Code. 
 
 # My Contributions
-As a core developer on this project, my responsibilities spanned across the full development lifecycle, focusing primarily on data persistence and full-stack integration:Database Architecture,<br><br>
-Designed and implemented the relational MySQL database schema, ensuring data integrity and optimizing tables for staff information and attendance history.  
-<br>
+As a core developer on this project, my responsibilities spanned across the full development lifecycle, focusing primarily on data persistence and full-stack integration,<br><br>
+Database Architecture:Designed and implemented the relational MySQL database schema, ensuring data integrity and optimizing tables for staff information and attendance history.  
 Backend Logic: Developed server-side PHP scripts to bridge the user interface with the database, handling authentication logic, secure CRUD workflows, and the attendance tracking mechanism. <br>
 Frontend Development: Assisted in building responsive, form-based components and dynamic directory tables using HTML, CSS, and JavaScript.
 
@@ -43,9 +42,10 @@ Bash
 git clone https://github.com/DeshaniBandara/Staff-Profile-Management-System.git
 
 2. Set up the Local Server:
- <br>Download and install XAMPP.  Move the cloned project folder into the server's root directory (e.g., C:/xampp/htdocs/).<br>
 
-3. Import the Database:<br>
+Download and install XAMPP. Move the cloned project folder into the server's root directory (e.g., C:/xampp/htdocs/).<br>
+
+5. Import the Database:<br>
 
 Open your browser and navigate to http://localhost/phpmyadmin.<br>
 
